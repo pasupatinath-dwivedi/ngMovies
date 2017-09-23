@@ -1,0 +1,47 @@
+[
+  {
+    "movieId": 1,
+    "movieName": "Avatar",
+    "movieCode": "MOV-0011",
+    "releaseDate": "December 17, 2009",
+    "description": "Avatar is no Hollywood wankfest. It extends the possibilities of what movies can do. Cameron's talent may just be as big as his dreams.",
+    "price": 19.95,
+    "starRating": 4.2
+  },
+  {
+    "movieId": 2,
+    "movieName": "Star Wars",
+    "movieCode": "MOV-0023",
+    "releaseDate": "March 18, 2016",
+    "description": "Star Wars",
+    "price": 32.99,
+    "starRating": 4.2
+  },
+  {
+    "movieId": 5,
+    "movieName": "Inception",
+    "movieCode": "MOV-0048",
+    "releaseDate": "July 22, 2010",
+    "description": "Inception",
+    "price": 12.99,
+    "starRating": 4.2
+  },
+  {
+    "movieId": 8,
+    "movieName": "Spider-Man: Homecomin",
+    "movieCode": "MOV-0022",
+    "releaseDate": "July 06, 2017",
+    "description": "15-inch steel blade hand saw",
+    "price": 11.55,
+    "starRating": 3.7
+  },
+  {
+    "movieId": 10,
+    "movieName": "The Avengers",
+    "movieCode": "MOV-0042",
+    "releaseDate": "April 25, 2012",
+    "description": "The Avengers is the world's fifth-highest-grossing film of all time",
+    "price": 15.95,
+    "starRating": 4.6
+  }
+]
