@@ -1,0 +1,34 @@
+<div class='panel panel-primary'>
+  <div class='panel-heading'>
+    {{pageTitle}}
+  </div>
+  <div class='panel-body'>
+      <div class='table-responsive'>
+      <table class='table'
+             *ngIf='movies && movies.length'>
+        <thead>
+          <tr>
+            <th>Movie Name</th>
+            <th>Code</th>
+            <th>Available</th>
+            <th>Price</th>
+            <th>5 Star Rating</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor='let movie of movies'>
+            <td>
+              {{ movie.movieName }}
+            </td>
+            <td>{{ movie.movieCode | lowercase }}</td>
+            <td>{{ movie.releaseDate }}</td>
+            <td>{{ movie.price | currency:'AUD':true:'1.2-2'}}</td>
+            <td>
+              {{movie.starRating}}
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>

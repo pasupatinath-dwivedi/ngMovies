@@ -6,7 +6,7 @@
     "releaseDate": "December 17, 2009",
     "description": "Avatar is no Hollywood wankfest. It extends the possibilities of what movies can do. Cameron's talent may just be as big as his dreams.",
     "price": 19.95,
-    "starRating": 4.2
+    "starRating": 4.1
   },
   {
     "movieId": 2,
@@ -15,7 +15,7 @@
     "releaseDate": "March 18, 2016",
     "description": "Star Wars",
     "price": 32.99,
-    "starRating": 4.2
+    "starRating": 3.5
   },
   {
     "movieId": 5,
