@@ -61,6 +61,8 @@
     <Content Include="src\app\app.component.css" />
     <Content Include="src\app\app.component.html" />
     <Content Include="src\app\home\welcome.component.html" />
+    <Content Include="src\app\movies\movie-list.component.html" />
+    <Content Include="src\app\movies\movielist.component.css" />
     <Content Include="src\assets\images\MovieWorld.png" />
     <Content Include="src\index.html" />
     <Content Include="src\favicon.ico" />
@@ -73,6 +75,7 @@
     <TypeScriptCompile Include="src\app\app.component.ts" />
     <TypeScriptCompile Include="src\app\app.module.ts" />
     <TypeScriptCompile Include="src\app\home\welcome.component.ts" />
+    <TypeScriptCompile Include="src\app\movies\movie-list.component.ts" />
     <TypeScriptCompile Include="src\environments\environment.prod.ts" />
     <TypeScriptCompile Include="src\environments\environment.ts" />
     <TypeScriptCompile Include="src\main.ts" />
